@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="nbaConnectionString1-Web.config Connection String" description="nbaConnectionString1 Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=nbajaimefrailedebruguera.database.windows.net;Initial Catalog=nba;User ID=jaimefdv;Password=Altairjaim3+" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jaime\\Downloads\\proyecto\ final\\en\ 1\ capa\ azure\ subir\ exportar\\nba\\nba\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='nbaConnectionString1']/@connectionString" />
+  </parameter>
+</parameters>

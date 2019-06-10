@@ -1,0 +1,8 @@
+﻿body {
+    background-image:url('../img/pelota.png'); 
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:contain;
+    background-color:#e0780f;
+    padding-top:1%;
+}

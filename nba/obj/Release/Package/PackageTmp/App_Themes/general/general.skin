@@ -1,0 +1,72 @@
+<%--
+Plantilla de máscara predeterminada. Las siguientes máscaras se proporcionan sólo como ejemplos.
+
+1. Máscara de control con nombre. SkinId debería definirse de forma única porque
+no se permite que haya varios SkinId por tipo de control en el mismo tema.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Máscara predeterminada. Skinid no está definido Sólo se permite 
+   una máscara de control por tipo de control en el mismo tema.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+<asp:TextBox runat="server" 
+    BackColor="#F0FFFF" 
+    BorderStyle="Inset" 
+    BorderWidth="3px" 
+    Font-Names="Arial" 
+    Font-Bold="True" 
+    Font-Size="Medium" 
+    Height="35px" 
+    Width="200px">
+</asp:TextBox>
+
+<asp:RequiredFieldValidator runat="server"
+    forecolor="DarkRed"
+    Font-Names="Arial" 
+    Font-Bold="True">
+</asp:RequiredFieldValidator>
+
+<asp:CompareValidator runat="server"
+    forecolor="DarkRed"
+    Font-Names="Arial" 
+    Font-Bold="True">
+</asp:CompareValidator>
+
+<asp:RangeValidator runat="server"
+    forecolor="DarkRed"
+    Font-Names="Arial" 
+    Font-Bold="True">
+</asp:RangeValidator>
+
+<asp:RegularExpressionValidator runat="server"
+    forecolor="DarkRed"
+    Font-Names="Arial" 
+    Font-Bold="True">
+</asp:RegularExpressionValidator>
+
+<asp:CustomValidator runat="server"
+    forecolor="DarkRed"
+    Font-Names="Arial" 
+    Font-Bold="True">
+</asp:CustomValidator>
+
+<asp:Label runat="server"
+    BackColor="#e0780f"
+    forecolor="Black"
+    Font-Names="Arial" 
+    Font-Bold="True">
+</asp:Label>
+
+<asp:Button runat="server"
+    forecolor="Black"
+    Font-Names="Arial" 
+    Font-Bold="True"
+    BackColor="Yellow"
+    Font-Size="Medium"
+    BorderWidth="0px">
+    
+</asp:Button>

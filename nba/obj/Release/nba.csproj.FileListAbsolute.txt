@@ -1,0 +1,90 @@
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\ApplicationInsights.config
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\csc.exe
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\vbc.exe
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\nba.dll.config
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\nba.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\nba.pdb
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.AI.Web.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.AI.Web.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\obj\Release\nba.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\obj\Release\nba.csproj.CopyComplete
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\obj\Release\nba.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\obj\Release\nba.pdb
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir\nba\nba\obj\Release\nba.csprojAssemblyReference.cache
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\ApplicationInsights.config
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\csc.exe
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\vbc.exe
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\nba.dll.config
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\nba.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\nba.pdb
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.AI.Web.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.SqlServer.Types.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.AI.Web.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\obj\Release\nba.csprojAssemblyReference.cache
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\obj\Release\nba.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\obj\Release\nba.csproj.CopyComplete
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\obj\Release\nba.dll
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\obj\Release\nba.pdb
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\usuarios.rdlc
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\equipos.rdlc
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\jugadores.rdlc
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\informeProductos.aspx
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\informeProductos.aspx.cs
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\informeProductos.aspx.designer.cs
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\informeCompras.aspx
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\informeCompras.aspx.cs
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\informeCompras.aspx.designer.cs
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\compras.aspx
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\productos.rdlc
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\compras.aspx.cs
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\compras.aspx.designer.cs
+C:\Users\jaime\Downloads\proyecto final\en 1 capa azure subir exportar\nba\nba\bin\compras.rdlc
